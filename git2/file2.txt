@@ -4,3 +4,6 @@ content of second commit from git2 here
 
 
 second commit from git2 stop
+third commit start
+content
+third commit stop
