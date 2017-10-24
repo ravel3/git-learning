@@ -1,5 +1,6 @@
-<<<<<<< HEAD
 master c1
 F3
 master c3
+master c2
+
 master c2
