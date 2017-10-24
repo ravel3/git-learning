@@ -8,3 +8,6 @@ second commit from git2 stop
 feature branch start
 content
 feature branch stop
+third commit start
+content
+third commit stop
