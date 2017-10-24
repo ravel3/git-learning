@@ -4,3 +4,7 @@ some text in first commit
 
 
 first commit stop
+
+fourth commit start
+content
+fourth commit stop
