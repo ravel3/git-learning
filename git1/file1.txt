@@ -6,3 +6,8 @@ some text in first commit
     third commit stop
 
 first commit stop
+
+
+5th commit master start
+    content
+5th commit master stop
