@@ -2,7 +2,7 @@ first commit start
 
 some text in first commit
     third commit start
-    content
+    content`
     third commit stop
 
 first commit stop
@@ -10,7 +10,6 @@ first commit stop
 fourth commit start
 content
 fourth commit stop
-
 
 5th commit master start
     content
