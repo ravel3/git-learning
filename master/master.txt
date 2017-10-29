@@ -1,5 +1,8 @@
 master c1
 F3
+master c3
 master c2
 master c3
   some thinks that will be deleted in the feature
+
+reste clean revert test - chcanges
