@@ -6,3 +6,5 @@ master c3
   some thinks that will be deleted in the feature
 
 reste clean revert test - chcanges
+
+after rebase - added changes
