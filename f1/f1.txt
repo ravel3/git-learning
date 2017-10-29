@@ -1,5 +1,7 @@
 F1
-    master - another changes after rebase
+
 F2
 
 master - aftre rebase form F1
+
+F1 - after rebase master onto F1
